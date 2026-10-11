@@ -1,0 +1,7 @@
+/assets/*.mp3
+  Cache-Control: no-cache, no-store, must-revalidate
+  X-Robots-Tag: noindex
+
+/assets/*.wav
+  Cache-Control: no-cache, no-store, must-revalidate
+  X-Robots-Tag: noindex
